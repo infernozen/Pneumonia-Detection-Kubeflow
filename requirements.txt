@@ -1,0 +1,4 @@
+# notebook is designed for kfp v1 , so dont install kfp v2
+kfp==1.8.12 
+kfp-pipeline-spec==0.1.13 # you can update other 2 to later version if needed
+kfp-server-api==1.8.2  

@@ -10,7 +10,7 @@ Built using Kubeflow, this ML pipeline effectively detects pneumonia in medical 
 + kubeflow 1.7 - Jupyter Notebook
 - Google cloud storage bucket
 * kubernetes 1.27
-+ Google compute engine (32 gb ram and 6 core vcpu)
++ Google compute engine 
 
 **Steps Involved:**
 1. Create a VM instance of minimum 32gb ram and 6 core

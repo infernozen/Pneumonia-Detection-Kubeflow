@@ -4,7 +4,7 @@ Built using Kubeflow, this ML pipeline effectively detects pneumonia in medical 
 **Architecture Diagram:**<br><br>
 ![architecture diagram](images/architecture_diagram.svg) <br>
 
-***Note: Following the given steps may incur you charges!! I have used the google cloud free trial resources for all the provisions. If possible I encourage you to do the same!***
+***Note: Following the given steps may incur you charges!! I have used the google cloud's free trial resources for all the provisions. If possible I encourage you to do the same!***
 
 **Used Components:**
 + kubeflow 1.7 - Jupyter Notebook
